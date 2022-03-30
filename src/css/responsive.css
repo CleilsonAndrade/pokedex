@@ -43,15 +43,16 @@
     justify-content: space-between;
   }
 
-  .list-pokemon .pokémon {
+  .list-pokemon .pokemon {
     width: 140px;
+    min-height: 50px;
     border-top-left-radius: 0;
     border-bottom-left-radius: 0;
     margin-bottom: 0;
     border-radius: 8px;
   }
 
-  .list-pokemon .pokémon span {
+  .list-pokemon .pokemon span {
     padding-right: 5px;
   }
 }

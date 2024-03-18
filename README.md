@@ -5,7 +5,6 @@
 </div>
 
 # 📒 Índice
-
 * [Descrição](#descrição)
 * [Requisitos Funcionais](#requisitos)
 * [Tecnologias](#tecnologias)
@@ -49,7 +48,6 @@ Pokédex simples e interativa em formato de landing page. Utilizando as tecnolog
 ```
 
 # 📝 <span id="licença">Licença</span>
-
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---

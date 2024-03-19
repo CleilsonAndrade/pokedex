@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Pokédex</h1>
-  <p>Pokédex simples e interativa utilizando as tecnologias HTML, CSS e JavaScript.</p>
+  <p>Pokédex simples utilizando as tecnologias HTML, CSS e JavaScript, com estudos de de responsividade e logica.</p>
   <img src="./design/preview.gif" alt="Logo" width="800">
 </div>
 

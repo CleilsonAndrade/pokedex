@@ -15,7 +15,7 @@
 * [Licença](#licença)
 
 # 📃 <span id="descrição">Descrição</span>
-Pokédex simples e interativa em formato de landing page. Utilizando as tecnologias HTML, CSS e JavaScript. 
+Pokédex simples e interativa em formato de landing page. Utilizando as tecnologias HTML, CSS e JavaScript, com estudos de de responsividade e logica. 
 
 # 📌 <span id="requisitos">Requisitos Funcionais</span>
 - [x] Visualização de dados<br>

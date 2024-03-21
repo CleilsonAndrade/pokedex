@@ -43,7 +43,7 @@ Pokédex simples e interativa em formato de landing page. Utilizando as tecnolog
 # 🚀 <span id="instalação">Instalação</span>
 ```bash
   # Clone este repositório:
-  $ git clone https://github.com/CleilsonAndrade/pokedex
+  $ git clone https://github.com/CleilsonAndrade/pokedex.git
   $ cd ./pokedex
 ```
 
